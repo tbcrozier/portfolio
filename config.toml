@@ -26,3 +26,8 @@ theme = "hugo-coder"
   icon = "fa fa-linkedin"
   weight = 2
   url = "https://www.linkedin.com/in/blake-crozier-95a688111/"
+
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "/about/"
