@@ -1,0 +1,26 @@
+baseURL = "https://tbcrozier.github.io/portfolio/"
+languageCode = "en-us"
+title = "Blake Crozier"
+theme = "hugo-coder"
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  author = "Blake Crozier"
+  info = "Cloud Data Engineer"
+  description = "Blake Crozier's personal portfolio site"
+  keywords = "cloud, GCP, terraform, bigquery, data engineer"
+  colorScheme = "auto"
+
+[[params.social]]
+  name = "GitHub"
+  icon = "fa fa-github"
+  weight = 1
+  url = "https://github.com/blakecrozier"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin"
+  weight = 2
+  url = "https://linkedin.com/in/blakecrozier"
