@@ -19,10 +19,10 @@ theme = "hugo-coder"
   name = "GitHub"
   icon = "fa fa-github"
   weight = 1
-  url = "https://github.com/blakecrozier"
+  url = "https://github.com/tbcrozier"
 
 [[params.social]]
   name = "LinkedIn"
   icon = "fa fa-linkedin"
   weight = 2
-  url = "https://linkedin.com/in/blakecrozier"
+  url = "https://www.linkedin.com/in/blake-crozier-95a688111/"
