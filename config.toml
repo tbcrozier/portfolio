@@ -31,3 +31,8 @@ theme = "hugo-coder"
   name = "About"
   weight = 1
   url = "/about/"
+
+[[menu.main]]
+  name = "Resume"
+  weight = 1
+  url = "/resume/"
