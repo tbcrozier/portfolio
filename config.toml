@@ -12,6 +12,8 @@ theme = "hugo-coder"
   description = "Blake Crozier's personal portfolio site"
   keywords = "cloud, GCP, terraform, bigquery, data engineer"
   colorScheme = "auto"
+  customCSS = ["css/custom.css"]
+
 
 [[params.social]]
   name = "GitHub"
