@@ -34,5 +34,5 @@ theme = "hugo-coder"
 
 [[menu.main]]
   name = "Resume"
-  weight = 1
+  weight = 2
   url = "/resume/"
