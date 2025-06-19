@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blake Crozier</title><link>https://tbcrozier.github.io/portfolio/</link><description>Recent content on Blake Crozier</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 12 Apr 2025 01:58:46 -0500</lastBuildDate><atom:link href="https://tbcrozier.github.io/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Resume</title><link>https://tbcrozier.github.io/portfolio/resume/</link><pubDate>Sat, 12 Apr 2025 01:58:46 -0500</pubDate><guid>https://tbcrozier.github.io/portfolio/resume/</guid><description>&lt;h1 id="john-doe">
+ John Doe
+ &lt;a class="heading-link" href="#john-doe">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>📍 Nashville, TN • 📞 (615) 522-8063 • ✉️ &lt;a href="mailto:crozitb0@mail.com" >crozitb0@mail.com&lt;/a> • &lt;a href="https://linkedin.com/in/johndoe" class="external-link" target="_blank" rel="noopener">LinkedIn&lt;/a> • &lt;a href="https://github.com/johndoe" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="-summary">
+ 🧠 Summary
+ &lt;a class="heading-link" href="#-summary">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Experienced software engineer with 7+ years in backend systems, cloud infrastructure, and data engineering. Passionate about building reliable systems, automating workflows, and mentoring junior developers.&lt;/p>
+&lt;hr>
+&lt;h2 id="-skills">
+ 🛠 Skills
+ &lt;a class="heading-link" href="#-skills">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Languages:&lt;/strong> Python, Go, SQL, JavaScript&lt;/li>
+&lt;li>&lt;strong>Cloud:&lt;/strong> GCP, AWS, Terraform, Kubernetes&lt;/li>
+&lt;li>&lt;strong>Data:&lt;/strong> BigQuery, PostgreSQL, Airflow, dbt&lt;/li>
+&lt;li>&lt;strong>Tools:&lt;/strong> GitHub Actions, Docker, Bash, CI/CD&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-experience">
+ 💼 Experience
+ &lt;a class="heading-link" href="#-experience">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="senior-data-engineer">
+ &lt;strong>Senior Data Engineer&lt;/strong>
+ &lt;a class="heading-link" href="#senior-data-engineer">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>&lt;strong>Acme Corp&lt;/strong> – Nashville, TN | &lt;em>2021 – Present&lt;/em>&lt;/p></description></item><item><title>About Me</title><link>https://tbcrozier.github.io/portfolio/about/</link><pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate><guid>https://tbcrozier.github.io/portfolio/about/</guid><description>&lt;p>Hi, my name is Blake. I am a family man, friend to all, adventurer, and lifetime learner.&lt;/p>
+&lt;p>Work: I am a backend data engineer with experience in on-prem and cloud technologies. I&amp;rsquo;ve been working at HCA Healthcare for 7 years in the enterprise data teams and have become proficient in SQL, Python/Bash scripting, and terraform infrastructure management.&lt;/p>
+&lt;pre>&lt;code>I specialize in:
+- Terraform infrastructure automation
+- BigQuery optimization and cost tracking
+- Serverless pipelines using Cloud Functions &amp;amp; Pub/Sub
+&lt;/code>&lt;/pre>
+&lt;p>Play:&lt;/p></description></item></channel></rss>
